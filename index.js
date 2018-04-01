@@ -20,9 +20,7 @@ var funkyFunction = function outerfunction() {
 }
 
 
-var theFunk = funkyFunction() {
-  return 
-}
+var theFunk = funkyFunction()()
 
 
 
