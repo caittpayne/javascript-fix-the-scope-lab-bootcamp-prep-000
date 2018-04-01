@@ -13,8 +13,8 @@ function add2(n) {
   
 }
 
-var funkyFunction = function outerfunction() {
-  return function innerfunction() {
+var funkyFunction = function() {
+  return function() {
     return "FUNKY!";
   }
 }
