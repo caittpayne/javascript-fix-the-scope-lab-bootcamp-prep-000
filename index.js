@@ -20,7 +20,7 @@ var funkyFunction = function outerfunction() {
   }
 }
 
-console.log funkfunction()
+console.log funkyfunction()
 
 var theFunk = funkyFunction()
 
