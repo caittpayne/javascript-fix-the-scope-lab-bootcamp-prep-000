@@ -21,7 +21,7 @@ var funkyFunction = function outerfunction() {
 }
 
 
-var theFunk = funkyFunction(())
+var theFunk = funkyFunction(innerfunction())
 
 
 
