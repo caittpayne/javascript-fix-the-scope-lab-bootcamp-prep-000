@@ -22,7 +22,7 @@ var funkyFunction = function outerfunction() {
 
 console.log(funkyfunction)
 
-var theFunk = funkyFunction(()())
+var theFunk = funkyFunction(())
 
 
 
